@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 Text in file 2
-=======
 HelloWorldAgain
->>>>>>> main
